@@ -8,10 +8,10 @@ Install recat:  npm install react
 
 - copy this and paste in .env file
   
-SKIP_PREFLIGHT_CHECK=true
+- SKIP_PREFLIGHT_CHECK=true
 REACT_APP_API_BASE_URL=http://localhost:3005/api
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Available Scripts
